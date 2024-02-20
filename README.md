@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mutahirali436
+- 👋 Hi, I’m Mutahir Ali
 - 👀 I’m interested in creating innovative and user-friendly web applications, exploring new technologies, and staying updated on the latest trends in web development.
 - 🌱 I’m currently learning embracing the power of serverless architecture, mastering front-end frameworks like React, and deepening my knowledge of backend technologies such as Node.js.
 - 💞️ I’m looking to collaborate on exciting web development projects that challenge and inspire. Open to collaborating with fellow developers, designers, and anyone passionate about building impactful digital experiences.
